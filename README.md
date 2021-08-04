@@ -1,2 +1,0 @@
-# ropt-arm
-week1
